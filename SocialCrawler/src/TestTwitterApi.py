@@ -17,7 +17,7 @@ twitter_user = 'JonoCX56'
 # monkeylearn setup items
 monkeylearn_token = ''
 monkeylearn_classifier_url = 'https://api.monkeylearn.com/v2/classifiers/'
-monkeylearn_extractor_url = 'https://api.monkeylearn.com/api/v1/extraction/'
+monkeylearn_extractor_url = 'https://api.monkeylearn.com/v2/extractors/'
 monkeylearn_lang = 'cl_hDDngsX8'
 monkeylearn_topic = 'cl_5icAVzKR'
 monkeylearn_extractor = 'ex_y7BPYzNG'
